@@ -1,0 +1,4 @@
+CryptoInfoWidget.MainActivity, CryptoInfoWidget;md5356b3b4f0f4e6c19a516b1d6c33a589f.MainActivity
+CryptoInfoWidget.MainActivity, CryptoInfoWidget, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5356b3b4f0f4e6c19a516b1d6c33a589f.MainActivity
+CryptoInfoWidget.MainActivity;md5356b3b4f0f4e6c19a516b1d6c33a589f.MainActivity
+cryptoinfowidget.MainActivity;md5356b3b4f0f4e6c19a516b1d6c33a589f.MainActivity

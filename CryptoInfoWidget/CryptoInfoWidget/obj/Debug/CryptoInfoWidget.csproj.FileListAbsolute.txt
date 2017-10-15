@@ -1,0 +1,15 @@
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\bin\Debug\CryptoInfoWidget.dll
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\bin\Debug\CryptoInfoWidget.pdb
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\bin\Debug\CryptoInfoWidget.CryptoInfoWidget.apk
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\bin\Debug\CryptoInfoWidget.CryptoInfoWidget-Signed.apk
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\obj\Debug\CryptoInfoWidget.csprojResolveAssemblyReference.cache
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\obj\Debug\CryptoInfoWidget.csproj.CoreCompileInputs.cache
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\obj\Debug\CryptoInfoWidget.dll
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\obj\Debug\CryptoInfoWidget.pdb
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\obj\Debug\android\bin\CryptoInfoWidget.CryptoInfoWidget.apk
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\obj\Debug\res\layout\main.xml
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\obj\Debug\res\values\strings.xml
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\obj\Debug\R.cs.flag
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\obj\Debug\uploadflags.txt
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\bin\Debug\CryptoInfoWidget.dll.mdb
+C:\Users\Darek\Source\Repos\CryptoInfoWidget\CryptoInfoWidget\obj\Debug\android\assets\CryptoInfoWidget.dll.mdb
