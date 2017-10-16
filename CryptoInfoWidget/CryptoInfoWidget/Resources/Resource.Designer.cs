@@ -41,11 +41,45 @@ namespace CryptoInfoWidget
 			}
 		}
 		
+		public partial class Drawable
+		{
+			
+			// aapt resource value: 0x7f020000
+			public const int android = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int announcement = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int previewImage = 2130837506;
+			
+			static Drawable()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Drawable()
+			{
+			}
+		}
+		
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f040000
-			public const int button1 = 2130968576;
+			// aapt resource value: 0x7f060000
+			public const int myButton = 2131099648;
+			
+			// aapt resource value: 0x7f060002
+			public const int widgetAnnouncementIcon = 2131099650;
+			
+			// aapt resource value: 0x7f060001
+			public const int widgetBackground = 2131099649;
+			
+			// aapt resource value: 0x7f060003
+			public const int widgetMedium = 2131099651;
+			
+			// aapt resource value: 0x7f060004
+			public const int widgetSmall = 2131099652;
 			
 			static Id()
 			{
@@ -60,8 +94,11 @@ namespace CryptoInfoWidget
 		public partial class Layout
 		{
 			
-			// aapt resource value: 0x7f020000
-			public const int Main = 2130837504;
+			// aapt resource value: 0x7f030000
+			public const int Main = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int Widget = 2130903041;
 			
 			static Layout()
 			{
@@ -76,8 +113,11 @@ namespace CryptoInfoWidget
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f030000
-			public const int app_name = 2130903040;
+			// aapt resource value: 0x7f050000
+			public const int app_name = 2131034112;
+			
+			// aapt resource value: 0x7f050001
+			public const int hello = 2131034113;
 			
 			static String()
 			{
@@ -85,6 +125,22 @@ namespace CryptoInfoWidget
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Xml
+		{
+			
+			// aapt resource value: 0x7f040000
+			public const int appwidgetprovider = 2130968576;
+			
+			static Xml()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Xml()
 			{
 			}
 		}
